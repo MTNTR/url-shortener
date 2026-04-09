@@ -32,7 +32,7 @@ Client → FastAPI (app) → Redis (кэш) → PostgreSQL (хранилище)
 
 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/mtntr/url-shortener.git
 cd url-shortener
 ```
 
